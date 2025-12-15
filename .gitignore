@@ -1,1 +1,9 @@
 .qodo
+.nextflow*
+.singularity
+Genome
+models
+recognise_markers
+slurm-*
+test
+work
